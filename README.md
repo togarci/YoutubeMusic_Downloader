@@ -5,4 +5,4 @@ Script Bash e Python para realizar download de videos no youtube como MP3
 
 O Script executa o script Python para realizar o Download do video no Youtube atravez da URL fornecida para o usuário, após realizar o Download o script em Bash realizada o converção.
 
-
+![alt text](https://github.com/togarci/YoutubeMusic_Downloader/blob/master/Como%20Funciona.png?raw=true)
